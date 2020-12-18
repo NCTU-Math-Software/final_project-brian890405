@@ -20,3 +20,6 @@ Note:
     (b^n mod k*(ak+b))mod k = b^n mod k mod k * (ak+b) mod k = 
     b^n mod k * b mod k = b^(n+1) mod k
     by 數學歸納法 得證
+
+推廣:
+可以依自己喜歡求出1^1+2^2+3^3+⋯+n^n(n可以自己訂) 小數點前k位數字 (k自訂)
