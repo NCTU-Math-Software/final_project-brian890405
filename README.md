@@ -1,7 +1,7 @@
 # final_project-brian890405
 final_project-brian890405 created by GitHub Classroom
 我要做 project16
-
+https://www.youtube.com/feed/subscriptions
 求出1^1+2^2+3^3+⋯+1000^1000 的小數點前10位數字
 方法 分別求出每一項的值，然後分別 mod 10^10
 所有的值相加再mod一次就會得到答案。(因為所有值相加後可能會超出10位)
