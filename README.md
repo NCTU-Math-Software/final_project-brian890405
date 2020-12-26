@@ -20,7 +20,6 @@
     ($b^n$ mod k * (ak+b))mod k = ($b^n$ mod k mod k) * ((ak+b) mod k) = 
     $b^n$ mod k * b mod k = $b^{n+1}$ mod k
     by M.I 故得證
-    https://hackmd.io/McR5eBTKQ-ayxLTqIr6imA?both
 
 # 推廣:
 一、可以依自己喜歡求出 $1^1$ + $2^2$ + $3^3$ + ... + $1000^{1000}$ (n可以自己訂) 小數點前k位數字 (k自訂 k < 300)
